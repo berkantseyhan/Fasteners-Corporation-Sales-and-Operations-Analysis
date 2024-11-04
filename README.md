@@ -11,9 +11,9 @@ Introduction
 The SQL scripts in this repository are designed to perform detailed analysis on various aspects of Wind Corporation's business data. The analyses focus on sales trends, customer behavior, product performance, and operational efficiency, utilizing queries on a structured database schema.
 
 
-<br> Top Selling Products: Product A,C,D,etc sold 6575342,432 units, generating $2.315.52 in sales.
+<br> Top Selling Products: Product A,C,D,etc sold 6575342.432 units, generating $2.315.52 in sales.
 <br>
-<br> Most Profitable Products: Product B generated $541,083 in profit.
+<br> Most Profitable Products: Product B generated $541.083 in profit.
 <br>
 <br> Top Customers: X has placed 1524 orders totaling $645.512.
 <br>
