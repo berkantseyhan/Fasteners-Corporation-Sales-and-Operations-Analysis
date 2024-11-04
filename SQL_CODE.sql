@@ -1,4 +1,5 @@
---Sales and Performance Analysis for Fasteners Corporation Wind = Represent company name
+--Sales and Performance Analysis for Fasteners Corporation 
+--Wind = Represent company name
 --1a. What were Wind's top selling products?
 
 SELECT TOP (3) p.ProductName, SUM(os.Subtotal) AS TotalSales, SUM(od.Quantity) AS TotalQuantity
