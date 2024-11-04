@@ -1,4 +1,4 @@
-# Wind-Corporation-Sales-and-Operations-Analysis
+# Wind Corporation Sales and Operations Analysis
 This repository contains SQL scripts used for a comprehensive analysis of Wind Corporation's sales, product performance, customer behavior, and operational efficiency. The queries are designed to provide actionable insights and inform strategic decision-making for data analysts and business teams.
 
 Table of Contents
